@@ -134,4 +134,8 @@ public class AllAboutArrays_Methods {
         }
         return count;
     }
+    /**
+    * Arrays are not full fleged objects but rather special objects designed to be close to the low-level for efficiency, 
+    * which is why you need the utility class Arrays for functions like sorting, etc. 
+    */
 }
